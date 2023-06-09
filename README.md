@@ -3,7 +3,7 @@
 
 ## 环境
 - [nasm](https://www.nasm.us/)
-- [qemu-system-x86_64](https://www.qemu.org/)]
+- [qemu-system-x86_64](https://www.qemu.org/)
 
 ## 运行
 ~~~
